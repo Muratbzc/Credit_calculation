@@ -1,17 +1,15 @@
 # Credit_calculation
 
 ## Description
-Our goal in this project is to create a web page using bootstrap and JavaScript.
+Our goal in this project is to create a credit calculation web page using bootstrap and JavaScript.
 
 ## Expected Outcome
 
-![Project 018](./Projects.gif);
+![Project 018](./Projects.gif)
 
 ## Objective
 
 Build a Credit Calculation web page
-
-
 
 ### Following topics are to be covered;
 
