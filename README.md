@@ -5,7 +5,7 @@ Our goal in this project is to create a web page using bootstrap and JavaScript.
 
 ## Expected Outcome
 
-![Project 018](./Project.gif);
+![Project 018](./Projects.gif);
 
 ## Objective
 
